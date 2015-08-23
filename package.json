@@ -1,0 +1,30 @@
+{
+  "name": "zachandstefdotcom",
+  "version": "1.0.0",
+  "description": "Our Wedding Site",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zleight1/zachandstefdotcom"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "zachandstefdotcom",
+    "zach",
+    "stef",
+    "love",
+    "wedding"
+  ],
+  "license": "MIT"
+}

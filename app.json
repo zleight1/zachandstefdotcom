@@ -1,0 +1,14 @@
+{
+  "name": "Zachary & Stefanie's Wedding Site",
+  "description": "Zachary & Stefanie's Wedding Site",
+  "repository": "https://github.com/zleight1/zachandstefdotcom",
+  "logo": "",
+  "keywords": ["node", 
+  	"express", 
+  	"static",
+    "zachandstefdotcom",
+    "zach",
+    "stef",
+    "love",
+    "wedding"]
+}
