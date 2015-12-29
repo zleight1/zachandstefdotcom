@@ -11,7 +11,23 @@
 			"file": "/Users/zleighton/Documents/Development/Software/Git/zacharyleightondotcom/zacharyleightondotcom.sublime-workspace",
 			"settings":
 			{
-				"buffer_size": 23218,
+				"buffer_size": 23084,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 30827,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/zleighton/Desktop/message.txt",
+			"settings":
+			{
+				"buffer_size": 2987,
 				"line_ending": "Unix"
 			}
 		}
@@ -48,14 +64,15 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/zleighton/Documents/Development/Software/Git/zachandstefdotcom"
+		"/Users/zleighton/Documents/Development/Software/Git/zachandstefdotcom",
+		"/Users/zleighton/Documents/Development/Software/Git/zachandstefdotcom/public"
 	],
 	"file_history":
 	[
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -86,7 +103,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -95,7 +112,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 23218,
+						"buffer_size": 23084,
 						"regions":
 						{
 						},
@@ -113,6 +130,67 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7288.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/zleighton/Desktop/message.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2987,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								439,
+								439
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
