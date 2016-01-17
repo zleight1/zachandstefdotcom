@@ -19,16 +19,16 @@
 			"file": "public/index.html",
 			"settings":
 			{
-				"buffer_size": 30827,
+				"buffer_size": 30829,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/Users/zleighton/Desktop/message.txt",
+			"file": "public/js/script.js",
 			"settings":
 			{
-				"buffer_size": 2987,
-				"line_ending": "Unix"
+				"buffer_size": 19541,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -65,10 +65,12 @@
 	"expanded_folders":
 	[
 		"/Users/zleighton/Documents/Development/Software/Git/zachandstefdotcom",
-		"/Users/zleighton/Documents/Development/Software/Git/zachandstefdotcom/public"
+		"/Users/zleighton/Documents/Development/Software/Git/zachandstefdotcom/public",
+		"/Users/zleighton/Documents/Development/Software/Git/zachandstefdotcom/public/js"
 	],
 	"file_history":
 	[
+		"/Users/zleighton/Desktop/message.txt"
 	],
 	"find":
 	{
@@ -141,15 +143,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 30827,
+						"buffer_size": 30829,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								110,
+								112
 							]
 						],
 						"settings":
@@ -159,7 +161,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 7288.0,
+						"translation.y": 7456.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -167,30 +169,28 @@
 				},
 				{
 					"buffer": 2,
-					"file": "/Users/zleighton/Desktop/message.txt",
+					"file": "public/js/script.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2987,
+						"buffer_size": 19541,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								439,
-								439
+								9214,
+								9214
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 8,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 66.0,
+						"translation.y": 4753.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
